@@ -17,4 +17,4 @@ muse.m: 坐标变换;
 mt2tbp.m: 根据地震矩张量求解T,B和P轴的俯角和方位角;
 pattern3d.m: 绘制P,S,SH和SV波的辐射花样;
 tbp2sdr.m: 根据T,B和P轴中任意两个轴的俯角和方位角求解地震节面参数;
-vbplot.m: 绘制沙滩排球;
+vbplot.m: 绘制沙滩排球.
