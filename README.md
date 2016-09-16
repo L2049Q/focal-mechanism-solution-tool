@@ -1,6 +1,6 @@
 # Focal-Mechanism-Solution-Tool
 #
-#简单的说明
+# 简单的说明
 
 faultpoltc.m: 绘制点源滑动模型;
 faultpoltc.m: 绘制有限断层滑动模型;
