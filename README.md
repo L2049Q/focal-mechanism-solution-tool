@@ -3,7 +3,7 @@
 # 简单的说明
 
 faultpoltc.m: 绘制点源滑动模型;
-faultpoltc.m: 绘制有限断层滑动模型;
+faultpoltr.m: 绘制有限断层滑动模型;
 az2pl.m: 根据T,B和P轴的方位角计算T,B和P轴的俯角;
 caldccd.m: 计算地震矩张量中CLVD和DC成分各自所占的比重;
 caldcm.m: 根据地震矩张量求解地震节面参数和标量地震矩(与calsdrm.m不同的是,该函数从地震矩张量中提取双力偶成分,
